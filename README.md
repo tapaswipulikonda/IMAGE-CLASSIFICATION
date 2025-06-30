@@ -24,3 +24,11 @@ matplotlib – for visualizing images and training metrics
 numpy – for numerical operations
 
 # OUTPUT
+
+![Image](https://github.com/user-attachments/assets/9ecf87fc-af5e-4e2c-b7b7-cdb0c6a03590)
+
+![Image](https://github.com/user-attachments/assets/1be8adb4-2948-40d0-9a90-93b6515ea99e)
+
+![Image](https://github.com/user-attachments/assets/4cacc9ce-f74b-413c-ad75-5752db4a8338)
+
+![Image](https://github.com/user-attachments/assets/e61fe50d-b2ec-42b7-9263-9c6225e02a7b)
